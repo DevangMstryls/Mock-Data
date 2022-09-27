@@ -1,0 +1,602 @@
+[
+  {
+    "id": 16497,
+    "name": "HP E-Charge",
+    "address": "HP E-Charge,Murgesh Pallya",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16496,
+    "name": "HPCL Mylapore",
+    "address": "HPCL Mylapore",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16495,
+    "name": "Charge Parks",
+    "address": "Charge Parks",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16494,
+    "name": "Charge Parks",
+    "address": "IOCL Guru service station, Pocket-7, Near city mall, sector 12 Dwarka",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16493,
+    "name": "PlugNgo",
+    "address": " 78, Narwana Rd, Block B, Saraswati Gali, Vinod Nagar North, New Delhi, Delhi 110092",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16492,
+    "name": "EESL Kirti Mann Plaza, Noida",
+    "address": "ICICI Bank Parking Kirti Mann Plaza, Sector 30 Noida",
+    "charge_points": ["Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16491,
+    "name": "EESL",
+    "address": "XHGQ+HCH, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16490,
+    "name": "Electric Fuel-Jothwara",
+    "address": "XQ25+3GM, Kumasiya, Jhotwara Industrial Area, Jhotwara, Jaipur, Rajasthan 302012",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16489,
+    "name": "Fortum Yelahankar LOG9",
+    "address": "Ambedkar Colony, Yelahanka New Town, Bengaluru, Karnataka 560065",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16488,
+    "name": "Fortum-Carzonrent Bengaluru Ulsoor",
+    "address": "NO. 12, Gowlee Street, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", ]
+  },
+  {
+    "id": 16487,
+    "name": "Tata Motor(Orange Auto)",
+    "address": "Prajay City, Hafeezpet, Hyderabad, Telangana 500049",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16486,
+    "name": "MVID MCD Hospital,Mukherjee",
+    "address": "Tagore Park Extension, Mukherjee Nagar, Delhi, 110009",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16485,
+    "name": "IOCL Kingsway Timarpur Charging",
+    "address": "THE MALL APARTMENT, Banarsi Das Estate, Timarpur, Delhi, 110054",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16484,
+    "name": "Pacific Mall Dwarka Charging Station",
+    "address": "Service Rd, Sector 21, Dwarka, New Delhi, Delhi 110077",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16483,
+    "name": "Tata Power malad Receiving Station",
+    "address": "Shop No-2,House No-26, Marve Rd, near sagar hotel, Kharodi Village, Malad West, Mumbai, Maharashtra 400095",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16482,
+    "name": "EESL M2K",
+    "address": "North MCD parking opp. M2k cinema, Rohini sec-3",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16481,
+    "name": "BRPL EV Charging Station NHP",
+    "address": "Outside BSES Bhawan, Nehru Place Behind DTC Bus Terminal, New Delhi",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16480,
+    "name": "KSEBL Chovva",
+    "address": "Executive Enginer, Transmission Division, Kannur 670703",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16479,
+    "name": "Charge Parks Gurugram",
+    "address": "JMD Megapolis Sector 48 Sohna Road Gurugram Haryana 122018",
+    "charge_points": ["zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16478,
+    "name": "EESL Adwant Chowk Noida ",
+    "address": "Advant chowk, Noida sec-142",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16477,
+    "name": "EESL",
+    "address": "BSES Rajdhani Power Limited, BSES Bhawan, Nehru Place",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16476,
+    "name": "EESL",
+    "address": "Janpath Guest House, Connaught Place, New Delhi",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16475,
+    "name": "EESL",
+    "address": "Gopal Das Building, Barakhamba Road, Connaught Lane, Barakhamba, New Delhi110001",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16474,
+    "name": "EESL",
+    "address": "Outside Bharat Sanchar Bhawan, Ashoke Road, Janpath, New Delhi- 110001",
+    "charge_points": ["zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16473,
+    "name": "EESL",
+    "address": "Outside Oriental Bank, Radial Road No. 7, Block M, Connaught Place, New Delhi- 110001",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16472,
+    "name": "Electric Fuel-Bhakrota",
+    "address": "Neer Sagar Market, Bhakrota, Jaipur, Rajasthan 302026",
+    "charge_points": ["zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16471,
+    "name": "Chargezone-Bamnoli",
+    "address": "H.No 22, Ground floor, Village Bamnoli, New Delhi-110077",
+    "charge_points": ["zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16470,
+    "name": "Chargezone-HP/Dharmshala/Bhagsaug Parking Nr Tranformers",
+    "address": "Kangra, Himachal Pradesh 176219",
+    "charge_points": ["zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16469,
+    "name": "Chargezone-MP/Indore/Marriotte Hotel",
+    "address": "QV3M+22W, Maguda Nagar, Suyash Vihar, Indore, Madhya Pradesh 452011",
+    "charge_points": ["zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16468,
+    "name": "Gurgaon sec. 18",
+    "address": "F3PF+RC6, Lane Number 1, Sarhaul, Sector 18, Gurugram, Haryana 122008",
+    "charge_points": ["zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16467,
+    "name": "Chargezone-MH Nashik car Mall",
+    "address": "Buddha Vihar, Pathardi Phata, Nashik, Maharashtra 422010",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16466,
+    "name": "Statiq-TLW@MG Charging Station",
+    "address": "Mehrauli Gurgaon Service Rd, besides Gurgaon central, Sector 25, MG road,Gurgaon, Haryana, 122022, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16465,
+    "name": "Statiq-MAHINDRA Fist Choice SEC 61 AC Charger",
+    "address": "PLOT NO-21, SECTOR-61,, NEAR HBR CHOWK, Gurgaon, Haryana, 122005,",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16464,
+    "name": "KSEBL Nemom",
+    "address": "Executive Engineer, Electrical Division, Neyyattinkara",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16463,
+    "name": "Tata Power Borivali Receiving Station",
+    "address": "Trimurty Nagar, Borivali, Mumbai, Maharashtra 400066",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16462,
+    "name": "Scv",
+    "address": "P7MP+X87, Block D, Indrapuri Colony, Lal Bagh Colony, Delhi, Uttar Pradesh 201102, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16461,
+    "name": "Pvn",
+    "address": "F8JR+FFX, Central Park, Serilingampalle (M), Telangana 500084, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16460,
+    "name": "evIN Charging Station - Peenya",
+    "address": "V11, Handrihalli Main Rd, Bengaluru, Karnataka 560058",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16459,
+    "name": "evIN Charging Station - Kengeri",
+    "address": "BSM Extension, Kengeri, Bengaluru, Karnataka 560060",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16458,
+    "name": "Swathi Charging station",
+    "address": "Room No: 25, 5th Floor, Swathi Gents Pg Swathi PG, Whitefield, Bengaluru, Karnataka 560066, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16457,
+    "name": "Jiobp FC ",
+    "address": "Forum Mall, Basement 2 parking, 8M98+C6P, Hyderali Rd, Jyothi Nagar, Gayathri Puram, Mysuru, Karnataka 570019, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16456,
+    "name": "ASHUTOSH' HOME CHARGER 7.2 KW ",
+    "address": "3MPV+VMV, near Ring Road, Naroda, Ahmedabad, Gujarat 382330, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16455,
+    "name": "Ashutosh's Home charger ",
+    "address": "3MPV+VMV, near Ring Road, Naroda, Ahmedabad, Gujarat 382330, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16454,
+    "name": "Test",
+    "address": "F27X+3H Gurugram, Haryana, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16453,
+    "name": "777 TO, 780 BLOCK, 9, Block 11, Lodi Colony, New Delhi, Delhi 110003, India",
+    "address": "777 TO, 780 BLOCK, 9, Block 11, Lodi Colony, New Delhi, Delhi 110003, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16452,
+    "name": "Jio-BP PULSE",
+    "address": "6, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16451,
+    "name": "Nayara ",
+    "address": "HC6J+J4P, Medak Rd, Gandi Maisamma, Hyderabad, Telangana 500043, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16450,
+    "name": "CHOTEY THAKUR'S",
+    "address": "R2VM+582, Kurnool, Andhra Pradesh 518004, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16449,
+    "name": "Xobolt FC",
+    "address": "NH 8, Jaipur-Kishangarh Expy, Tolamal, Rajasthan 305801, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16448,
+    "name": "Tata Power Fast Charging ",
+    "address": "64PJ+HR8 kalyan junction sky walk ., Bhoiwada, Kalyan, Maharashtra 421301, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16447,
+    "name": "Tata Power Fast Charging ",
+    "address": "W62M+JV4, HP Petrol Pump, Nadhal, Maharashtra 410206, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16446,
+    "name": "SOCKET MINI 7.2 KW",
+    "address": "50-52-18/2/1, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16445,
+    "name": "Cassia Restaurant, Zeon Charging station 50kw",
+    "address": "517, Panvel - Kochi - Kanyakumari Hwy, Kommady, Kanjiramchira, Aryad South, Kerala 688008, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16444,
+    "name": "Jio BP Charger Orient Hotel",
+    "address": "45b, Great Nag Rd, Opp. Imambada Police Station, Ganeshpeth Colony, Nagpur, Maharashtra 440025, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16443,
+    "name": "KEL Pulse Power",
+    "address": "Anchorage, Mundupalam Jn,.Ernakulam Road, Kuriachira, Thrissur, Kerala 680006, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16442,
+    "name": "EV Pump",
+    "address": "V9F6+FJ2, Jain Temple Rd, Kamgar Chowk, N 3, Cidco, Aurangabad, Maharashtra 431009, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16441,
+    "name": "Phil’s Hub",
+    "address": "State Highway 8 Muzhiar, Junction, Mylapra part, Kerala 689672, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16440,
+    "name": "ChargeZone ",
+    "address": "Hotel Express Inn National highway 8, Ghodbunder Rd, near Versova, Versova, Mira Bhayandar, Maharashtra 401107, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16439,
+    "name": "GoEC KSEB ",
+    "address": "Q7HP+R4G, Kulappully, Kerala 679122, India",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16438,
+    "name": "KSEB Vytilla ",
+    "address": "Vyttila, Kerala, 682019",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16437,
+    "name": "IOCL SR Adhoc COCO Vytilla Charging Station",
+    "address": "beside maruthi true value, Janatha Junction, Vyttila, Kochi, Kerala 682019",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16436,
+    "name": "Tata Motors Limited Trupti Automotives Mohammed Jamalpur Charging Station",
+    "address": "W698+GPJ, Keonjhar - Ghatgaon - Panikoili Rd, Mohammed Jamalpur, Odisha 755015",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16435,
+    "name": "Metro Bhavan",
+    "address": "near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16434,
+    "name": "Chatrapati Nagar Metro Station",
+    "address": "4, Chandrapur - Nagpur Rd, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16433,
+    "name": "Airport Metro Station",
+    "address": "33P7+PF5, Airport Metro Station, Sonegaon, Nagpur, Maharashtra 440005",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16432,
+    "name": "Airport South Metro Station",
+    "address": "33J6+2C9, Airport South Metro Station, Sonegaon, Nagpur, Maharashtra 440005",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16431,
+    "name": "New Airport Metro Station",
+    "address": "MIHAN, Nagpur, Nagpur, Maharashtra",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16430,
+    "name": "Tata Motors(National Autowheels)",
+    "address": "19/1, Hadapsar, Near Quality Bakery, Hadapsar Industrial Estate, Pune",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16429,
+    "name": "Tata Motor (Bafna)",
+    "address": "Survey No 104/3 Mumbai, Pune Banglore Highway Pashan Exit, Mohan Nagar Co-Op Society, Baner, Pune, Maharashtra 411045",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16428,
+    "name": "Tata Motor (Bafna),Tathawade",
+    "address": "Gate no. 129/2B/1, Mumbai Bangalore Express Highway, Ashok Nagar, Tathawade, Pune",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16427,
+    "name": "Tata Motor(Sridha Motors)",
+    "address": "GAT NO. 143/3, Pune - Nashik Hwy, Maharashtra 410501",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16426,
+    "name": "Tata Motor(Rudra Motor), Wagholi",
+    "address": "HXF5+CJV, Wable Wasti, Sai Satyam Park, Wagholi, Pune, Maharashtra 412207",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16425,
+    "name": "EVRE Goregaon",
+    "address": "Lodha Fiorenza, Goregaon, Mumbai, Maharashtra 400063",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16424,
+    "name": "Tata Power BKC receiving Station",
+    "address": "Tata Power BKC Substation, Near Asian Heart Hospital, Oppo. Bharat Diamond Bourse",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16423,
+    "name": "Tata Motors Fortune Cars",
+    "address": "Fortune cars, Plot D232, MIDC Industrial Area, Shiravane, Nerul, Navi Mumbai",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16422,
+    "name": "KSEB Gandhinagar Kochi",
+    "address": "X7FV+CFP, Gandhi Nagar, Elamkulam, Ernakulam, Kerala 682020",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16421,
+    "name": "Electric Fuel-Pisoli",
+    "address": "Shree Siddhivinayak Meera, Undri, Pune, Maharashtra 412308",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16420,
+    "name": "TML Sai Baba Theregaon",
+    "address": "JQ6M+C7C, Indrayani Nagar, Nakhate Nagar, Thergaon, Pimpri-Chinchwad, Maharashtra 411033",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16419,
+    "name": "Mory Transport Terminus MIDC",
+    "address": "Mory Transport Terminus MIDC Bhosri Charging Station, Plot no BGP 109, Village, MIDC Bhosri, Pune",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16418,
+    "name": "Croma,Thane",
+    "address": "Ghodbunder Service Rd, Kailash Nagar, Thane West, Thane, Maharashtra 400607",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16417,
+    "name": "Electric Fuel-Wagholi",
+    "address": "Kolte Park Rd, Kawade Wasti, Wagholi, Pune, Maharashtra 412207",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16416,
+    "name": "Ginger Hotel, Wakad",
+    "address": "Near Indira College Road, Kaka Khadak, Wakad Pune",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16415,
+    "name": "Amanora Urban Plaza",
+    "address": "GW9W+5G4, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16414,
+    "name": "EVRE Thane",
+    "address": "The Walk Rd, Hiranandani Estate, Thane West, Thane, Maharashtra 400607",
+    "charge_points": ["ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16413,
+    "name": "TSUISL N Town Substation",
+    "address": "R5FJ+5QQ, Ballichela, Sonari, Jamshedpur, Jharkhand 831011",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16412,
+    "name": "Samal Equip Nuahata",
+    "address": "Nuahata, Odisha 759128",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16411,
+    "name": "Trupti Automotives Angul Charging Station",
+    "address": "NH 55, TElco Chowk, Nuahata Banarpal, Angul",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16410,
+    "name": "Tata Motors Limited Dion Automotives CDA Sec 11 Charging Station",
+    "address": "Plot No 11/3B, 1326, near SBI, CDA Sector 11, Cuttack, Odisha 753014",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16409,
+    "name": "Tata Motors Limited, Trupti Automotives NH 16 Charging Station",
+    "address": "NH16, Manguli Chowk, Odisha 754025",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16408,
+    "name": "Tata Motors Limited, Trupti Enterprises Charging Station",
+    "address": "IDCO, Plot No 16,17, 32&33 Bhagabanpur Industrial Area, Bhubaneshwar",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16407,
+    "name": "DN Regalia Mall Patrapada Charging Station",
+    "address": "Basement 2, DN Regalia, Patrapada, Bhubaneswar",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16406,
+    "name": "Hotel Greenland towers Roopnarayanpur Charging Station",
+    "address": "i-Red Airtel Project, AH46, Rupnarayanpur, West Bengal 721305",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16405,
+    "name": "Kejriwal Casting Gopalpur",
+    "address": "F9XH+F3M, Bamunara Gopalpur Road, Gopalpur, Durgapur, West Bengal 713212",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16404,
+    "name": "Tata Motors Limited TC Motors, Domjur Charging Station",
+    "address": "Ground Floor NH 6, Salap More, Domjur Near Kolkatta, West International City, Howrah, West Bengal 711403",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16403,
+    "name": "IOCL Ultimate Energy, EM Bypass Road",
+    "address": "383, Santipally, Sector C, Naskarhat, Kasba, West Bengal",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16402,
+    "name": "EESL New Town",
+    "address": "EESL New Town,Near Tank 3,Opp Goutams , Street Number 24,Sub Central Business District Action Area 1,Newtown West Bengal 700156",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16401,
+    "name": "EESL Eco Park Gate 1",
+    "address": "EESL Eco Park Gate 1,Parking Lot Eco Park Gate 1 , Major Arterial Road South East, Biswa Bangla Sarani,Newtown,Kolkata,West Bengal,700156",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16400,
+    "name": "EESL Eco Park Gate 6",
+    "address": "EESL Eco Park Gate 6,Ecopark,Deshbandhu Nagar,Rekjuani , West Bengal 700156",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16399,
+    "name": "EESL Eco Park Gate 4",
+    "address": "EESL Eco Park Gate 4,Newtown,Parking Lot ,7 Wonders ,Gate No 4,Eco Park Entry Plaza,AA IIB,Newtown,Kolkata,West Bengal 700135",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  },
+  {
+    "id": 16398,
+    "name": "KSEB Kottayam Gandhinagar",
+    "address": "Gandhinagar, Kottayam East, Kerala - 686008",
+    "charge_points": ["ZzooboGsZp9USDjPZgh", "ZZODFwDtcL9RSFeIKA_Z", "zZNjrYmBsl0d6PZZhhbJ", "zY_uLi_gB1dI25yIYvE6", "Zyr0MFo7fn6Q84hsj2M9", "ZyoQ3K2FZGkkjJV4wEJB", "ZyNmZyjRUcQU04FVOaK"]
+  }
+]
